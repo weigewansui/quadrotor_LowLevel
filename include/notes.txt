@@ -1,0 +1,5 @@
+in llp_nav.cpp
+
+edit usleep will boost the data frequency usually is 100000, 10 HZ
+
+50000 works

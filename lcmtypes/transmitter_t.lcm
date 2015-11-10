@@ -1,0 +1,23 @@
+struct transmitter_t {
+
+	int64_t timestamp;
+
+	int16_t ch_in0;
+	int16_t ch_in1;
+	int16_t ch_in2;
+	int16_t ch_in3;
+	int16_t ch_in4;
+	int16_t ch_in5;
+	int16_t ch_in6;
+	int16_t ch_in7;
+
+	int16_t ch_out0;
+	int16_t ch_out1;
+	int16_t ch_out2;
+	int16_t ch_out3;
+	int16_t ch_out4;
+	int16_t ch_out5;
+	int16_t ch_out6;
+	int16_t ch_out7;
+	
+}
